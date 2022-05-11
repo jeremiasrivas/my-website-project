@@ -1,6 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Koulen&display=swap');
 * {
     margin: 0;
     padding: 0;
+    font-family: 'Koulen', cursive;
 } 
 
 ul {
@@ -16,16 +18,18 @@ li a {
     width: 100px;
     display: block;
     text-decoration: none;
+    color: white;
 }
 
 nav{
     width: 100%;
     height: 115px;
     background-color: black;
+    font-size: 18px;
 }
 
 .logo img {
     position: absolute;
-    margin-top: 5px;
+    margin-top: 0px;
     margin-left: 10px;
 }
