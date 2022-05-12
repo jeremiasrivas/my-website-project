@@ -16,7 +16,7 @@ li {
 
 li a {
     width: 100px;
-    display: block;
+    display: inline-block;
     text-decoration: none;
     color: white;
 }
@@ -33,3 +33,33 @@ nav{
     margin-top: 0px;
     margin-left: 10px;
 }
+
+#main-page-section {
+    height: 500px;
+  background-color: black
+
+}
+
+#main-page-p{ 
+   color: white;
+   font-size: 25px;
+   margin-left: 90px;
+}
+
+
+.david-img {
+   
+    height: 175px;
+    width: 100;
+    border: 2px solid white;
+}
+
+#five-twent {
+    color: white;
+    text-align: right;
+    margin-top: -217px;
+    width: 15%;
+    margin-left: 700px;
+   
+}
+
